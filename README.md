@@ -1,3 +1,7 @@
+# CS35L-Assignment3
+Project Spec https://web.cs.ucla.edu/classes/winter23/cs35L/assign/assign2.html 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
